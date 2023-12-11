@@ -1,6 +1,9 @@
- bri034.github.io
- 
-Aebriel Richesse R. Que
+#We Bare Bears
 
-Wave to Earth
-https://images.app.goo.gl/fSgJrNH3FEWEWPb1A
+![We Bare Bears](https://images.gmanews.tv/webpics/2020/08/stack_2020_08_22_11_37_09.jpg)
+
+We Bare Bears is an animated show centers around three bears—Grizzly, Panda, and Ice Bear—and their eager and often comic attempts to fit into a human society. Set in San Francisco, the three bears live in a cave on the outskirts of town and work together to make human friends and have adventures.
+
+Three bears:
+
+![Grizzly](![We Bare Bears](https://images.gmanews.tv/webpics/2020/08/stack_2020_08_22_11_37_09.jpg))
