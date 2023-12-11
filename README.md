@@ -7,4 +7,5 @@ We Bare Bears is an animated show centers around three bears—Grizzly, Panda, a
 Three bears:
 
 Grizzly
-(![We Bare Bears](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDyXCUX7E1NN9AoAIq-ztgPI9S5RkbrS5bFg&usqp=CAU)
+
+![We Bare Bears](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDyXCUX7E1NN9AoAIq-ztgPI9S5RkbrS5bFg&usqp=CAU)
