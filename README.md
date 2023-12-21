@@ -6,7 +6,7 @@ We Bare Bears is an animated show centers around three bears—Grizzly, Panda, a
 
 Three bear brothers:
 
-Grizzly
+Grizzly''
 
 ![We Bare Bears](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDyXCUX7E1NN9AoAIq-ztgPI9S5RkbrS5bFg&usqp=CAU)
 
@@ -22,6 +22,6 @@ Icebear
 
 ![image](https://github.com/bri034/bri034.github.io/assets/150876901/acf3ad2a-72b5-429c-924a-61ca055c82e9)
 
--ce Bear is almost always stoic and quiet, though not inherently unfriendly. He's rarely seen smiling, but he is the most polite and mature of the brothers. In fact, Ice Bear is notably more observant and has a better keen sense of danger than his brothers!
+-Ice Bear is almost always stoic and quiet, though not inherently unfriendly. He's rarely seen smiling, but he is the most polite and mature of the brothers. In fact, Ice Bear is notably more observant and has a better keen sense of danger than his brothers!
 
 
