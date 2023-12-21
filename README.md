@@ -12,7 +12,9 @@ Grizzly
 
 Panda
 
-![We Bare Bears](![image](https://github.com/bri034/bri034.github.io/assets/150876901/a9cd9b89-6a58-418e-8141-6193f9d133ce)
+![image](https://github.com/bri034/bri034.github.io/assets/150876901/a9cd9b89-6a58-418e-8141-6193f9d133ce)
+
+Icebear
 
 
 
