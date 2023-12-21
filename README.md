@@ -12,6 +12,6 @@ Grizzly
 
 Panda
 
-![alt text](https://images.app.goo.gl/2FKU25UwW51UoP6G7)
+![](https://images.app.goo.gl/2FKU25UwW51UoP6G7)
 
 
