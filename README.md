@@ -12,6 +12,6 @@ Grizzly
 
 Panda
 
-![We Bare Bears](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.grupobsg.com.br%2Fpanda-bear-we-bare-bears-wiki-fandom-oo-LwYRbbuz&psig=AOvVaw1jrWjY-jUV9Y9urUh5RX_4&ust=1703222739660000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCbsqvln4MDFQAAAAAdAAAAABAv)
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.grupobsg.com.br%2Fpanda-bear-we-bare-bears-wiki-fandom-oo-LwYRbbuz&psig=AOvVaw1jrWjY-jUV9Y9urUh5RX_4&ust=1703222739660000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCbsqvln4MDFQAAAAAdAAAAABAv)
 
 
