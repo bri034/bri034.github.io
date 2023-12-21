@@ -12,6 +12,6 @@ Grizzly
 
 Panda
 
-(![We Bare Bears](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmystickermania.com%2Fsticker-packs%2Fwe-bare-bears%2Fwbb-panda-christmas-mood&psig=AOvVaw1jrWjY-jUV9Y9urUh5RX_4&ust=1703222739660000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCbsqvln4MDFQAAAAAdAAAAABAJ)
+(![We Bare Bears](https://images.app.goo.gl/2FKU25UwW51UoP6G7)
 
 
