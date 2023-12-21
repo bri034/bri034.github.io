@@ -12,6 +12,6 @@ Grizzly
 
 Panda
 
-![We Bare Bears](https://images.app.goo.gl/2FKU25UwW51UoP6G7)
+![alt text](https://images.app.goo.gl/2FKU25UwW51UoP6G7)
 
 
